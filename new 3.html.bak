@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Song Links</title>
+</head>
+<body>
+
+<a href="path/to/your/song1.mp4" target="_blank">Song 1</a><br>
+<a href="path/to/your/song2.mp4" target="_blank">Song 2</a><br>
+<a href="path/to/your/song3.mp4" target="_blank">Song 3</a>
+
+</body>
+</html>
